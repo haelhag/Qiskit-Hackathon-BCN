@@ -30,7 +30,7 @@ On the [How To Connect](How_To_Connect.ipynb) Notebook you can find some useful 
 
 | Team Number | Challenge | Team Name | Team Members |
 | :---------: | :-------: | :-------: | :----------: |
-| **Team 1** | IBM | **Qbit Enjoyers** | Mohammad Sahrawaz, Hala Siddig Elhog, David Romero Sánchez, Daniel Saavedra Mayor, Gonzalo Garcia Navarro, Arturo Veiga Sebastián |
+| **Team 1** | IBM | **Qbit Enjoyers** | Mohammad Sahrawaz, Hala Elhag, David Romero Sánchez, Daniel Saavedra Mayor, Gonzalo Garcia Navarro, Arturo Veiga Sebastián |
 | **Team 2** | IBM | **Team QuPics** | Guillerme Botelho, Boris Müllendorff, Gerard Marcet, Pau Escofet, Bart Segers, Diago Ramos |
 | **Team 3** | BSC | **QuteBits** | Hayato Ishida, Marco Paradina, Abdulelah Almimoni, Vignesh Anantharamakrishnan |
 | **Team 4** | BSC | **Q-Buddies** | Gabriel De Araujo, Oriol De Miguel, Gokarna Dumre, Ho June Kim, Jorge Plazas |
